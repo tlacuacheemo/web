@@ -1,0 +1,65 @@
+*{/*hilda cruz flores
+	tania simone rosas piña*/
+    margin: 0;
+	padding: 0;
+}
+nav ul{
+	background-color: aliceblue;
+	width: 100%;
+	list-style-type: none;
+	text-align: center;
+
+}
+nav li{
+	display: inline-flex;
+}
+nav a{
+	text-decoration: none;
+	color: darkblue;
+	padding: 10px;
+	width: 150px;
+}
+nav li:hover {
+	background-color: skyblue;
+}
+.content-header{
+	width: 1200px;
+	margin:0.5em auto;
+	padding: 0.5em;
+	text-align: center;
+}
+section{
+	width: 1200px;
+	height: 6520px;
+	margin:0.5em auto;
+	padding: 0.5em;
+	text-align: center;
+}
+h1{
+	font-family: revert-layer;
+	font-size: 70px;
+	background: skyblue;
+	color: darkblue;
+}
+p{
+    font-family: cursive; 
+    font-size: 30px; 
+    background:aliceblue;
+    display: flex; 
+    align-items: center;
+}
+h3{
+	font-family:revert-layer;
+	font-size:40px;
+
+}
+footer{
+	width: 100%;
+	height: 200px;
+	text-decoration: none;
+	color: darkblue;
+	background: skyblue; 
+	color:darkblue;
+	font-family: revert-layer;
+	 font-size: 30px;
+}
